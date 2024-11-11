@@ -1,0 +1,262 @@
+/* body{
+    background-color: bisque;
+} */
+*{
+    background-color: blueviolet;
+}
+h1{
+   color: black;
+   background-color: aqua;
+   text-align: center;
+   border: 10px solid aquamarine;
+   font-size: 4rem;
+   border-radius: 50px;
+   /* width: 2000px; */
+   font-family: 'Courier New', Courier, monospace;
+}
+#cskHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: yellow;
+    width: 300px;
+    text-align: center;
+    border: 5px ridge yellow;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 60px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 20px;
+}
+#dcHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: cadetblue;
+    width: 300px;
+    text-align: right;
+    border: 5px dashed wheat;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 40px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 30px;
+}
+#gtHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: cornsilk;
+    width: 300px;
+    text-align: left;
+    border: 5px solid black;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 50px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 40px; 
+}
+#kkrHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: gold;
+    width: 400px;
+    text-align: center;
+    border: 5px double black;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 69px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 55px; 
+}
+#lsgHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: blue;
+    width: 400px;
+    text-align: center;
+    border: 5px groove yellow;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 50px;
+    /*margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;*/
+    margin: 50px; 
+}
+#miHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: blue;
+    width: 300px;
+    text-align: center;
+    border: 5px ridge lightskyblue;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 60px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 20px; 
+}
+#pkHeading{
+    display: inline-block;
+    color: pink;
+    font-size: 2rem;
+    background-color: black;
+    width: 200px;
+    text-align: center;
+    border: 5px inset red;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 60px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 20px;
+}
+#rcbHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: red;
+    width: 400px;
+    text-align: center;
+    border: 5px outset lightpink;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 60px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 20px;
+}
+#rrHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: purple;
+    width: 300px;
+    text-align: center;
+    border: 5px dotted plum;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 60px;
+     /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 20px;
+}
+#srhHeading{
+    display: inline-block;
+    color: black;
+    font-size: 2rem;
+    background-color: orange;
+    width: 400px;
+    text-align: center;
+    border: 5px hidden orchid;
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px; */
+    padding: 60px;
+    /* margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    margin: 20px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    background-color:lightsalmon;
+    /* object-fit: contain; */
+    padding: 15px;
+    margin: 10px;
+}
+#cskPic{
+    border: 5px groove yellow;
+}
+#dcPic{
+    border: 5px dotted blue;
+}
+#glPic{
+    border: 5px groove orangered;
+}
+#kkrPic{
+    border: 5px ridge yellow;
+}
+#lsgPic{
+    border: 5px inset gold;
+}
+#miPic{
+    border: 5px outset blue;
+}
+#pkPic{
+    border: 5px none red;
+}
+#rcbPic{
+    border: 5px hidden yellow;
+}
+#rrPic{
+    border: 5px double dodgerblue;
+}
+#srhPic{
+    border: 5px solid orange;
+}
+#ipl1{
+    border: 20px dotted grey;
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    padding: 50px;
+    margin: 50px; 
+    box-sizing: content-box;
+}
+#ipl2{
+    border: 20px dotted red;
+    background-color: blueviolet;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 60px;
+    box-sizing: border-box;
+}
